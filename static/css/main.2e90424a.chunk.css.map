@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,KAKE,eACF,CAGA,qBACE,gBACF","file":"main.2e90424a.chunk.css","sourcesContent":["html{\r\n  /* rem em\r\n  em:相对于父元素\r\n  rem:相对于根元素\r\n  */\r\n  font-size: 62.5%;\r\n}\r\n\r\n/* viewport height === vh */\r\nhtml body #root .App{\r\n  min-height: 100vh;\r\n}"]}
